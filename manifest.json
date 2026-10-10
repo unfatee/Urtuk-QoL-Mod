@@ -1,0 +1,38 @@
+[
+  {
+    "path": "kaleta/hex3/world/customCampaign/adventure/questEmitters/RumorsHubRepository.class",
+    "size": 73150,
+    "sha256": "90731ffb56c389b1e758f36b424c25dd995b133b3876adfd7ecd9522c3e89187",
+    "source": "Urtuk_SAFE_3_Patches_v1.zip"
+  },
+  {
+    "path": "kaleta/hex3/world/customCampaign/adventure/questEmitters/NonRumorsHubRepository.class",
+    "size": 61093,
+    "sha256": "4c44d4cc9c376082d99acbffd0c6ae5cb2214ec1eecba0588522a8cf140f0234",
+    "source": "Urtuk_SAFE_3_Patches_v1.zip"
+  },
+  {
+    "path": "kaleta/hex3/world/data/classDefinitions/ClassDefinition.class",
+    "size": 9666,
+    "sha256": "dd5e920cfe3570a0e6c65fdcc31ecc9a42b3ab9681e5afa333f3fe303a64b4e0",
+    "source": "Urtuk_SAFE_3_Patches_v1.zip"
+  },
+  {
+    "path": "kaleta/hex3/world/data/perks/FleshConsumer.class",
+    "size": 6182,
+    "sha256": "6853ff8b48346aa8fdae9bf7df5790bbff04ea6b869bc5a56bf53c9e437d4e73",
+    "source": "Urtuk_SAFE_3_Patches_v1.zip"
+  },
+  {
+    "path": "kaleta/hex3/world/data/perks/MutatorsAbsorptions$MutatorAbsorptionProgress.class",
+    "size": 2050,
+    "sha256": "36c48e18fc25b51cb602127f3fefdde20e892c2894ac0466822c5fdbb984c599",
+    "source": "Urtuk_SAFE_3_Patches_v1.zip"
+  },
+  {
+    "path": "kaleta/hex3/GlobalGameProgress.class",
+    "size": 9728,
+    "sha256": "ccb1a8c30e6748f445259e6f9ad3f968f631b6bbb27681e14b8fd7da3e07c90d",
+    "source": "Urtuk_Global_Old_Patches.zip"
+  }
+]
